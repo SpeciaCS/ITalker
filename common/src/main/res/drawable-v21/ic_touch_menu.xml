@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--联谊形状是一样的  5.0开始联谊的写法-->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/white_alpha_48">
+    <item android:id="@android:id/mask">
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp" />
+            <solid android:color="@color/white" />
+        </shape>
+    </item>
+</ripple>
